@@ -3,3 +3,4 @@ Rafael Taboada Sobral - RM: 569527
 Guilherme Mazzini Nunes Canno - RM: 573183
 Erick Ripari Gomes - RM: 569441
 Luan Schinello Garbin - RM: 571276
+https://github.com/Fabricio-Denig/challenge-jovi-slid-mode.git
